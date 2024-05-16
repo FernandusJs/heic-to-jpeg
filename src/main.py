@@ -22,5 +22,7 @@ def convert_heic_to_jpg(path):
             # save the file
             image_path = os.path.splitext(os.path.join(path, filename))[0] + ".jpg"
             image.save(image_path, "JPEG")
+
+
 # call function, give path the path of the folder which has to be converted.
 convert_heic_to_jpg("/")
