@@ -14,12 +14,8 @@ No installation required. Just make sure you have the necessary libraries instal
 ## Usage
 
 1. Place your HEIC files in a directory.
-2. Run the script and provide the path to that directory as an argument.
+2. Run the script and provide the path to that directory by editing the script.
 
-   Example:
-   ```
-   python convert_heic_to_jpg.py /path/to/your/directory
-   ```
 
 3. The script will convert all HEIC files in the directory to JPEG format.
 
