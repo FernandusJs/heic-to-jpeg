@@ -21,6 +21,7 @@ No installation required. Just make sure you have the necessary libraries instal
 
 ## Notes
 
+- The pyheif library only functions on linux based systems.
 - Only files with the `.heic` extension will be converted.
 - Converted JPEG files will have the same name as the original HEIC files but with the `.jpg` extension.
 - The script does not delete the original HEIC files.
